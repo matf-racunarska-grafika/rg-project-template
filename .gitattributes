@@ -1,0 +1,7 @@
+resources/** linguist-vendored=true
+.venv/** linguist-vendored=true
+
+app/**/*.h linguist-language=c++
+app/**/*.hpp linguist-language=c++
+app/**/*.cpp linguist-language=c++
+app/**/*.c linguist-language=c++
